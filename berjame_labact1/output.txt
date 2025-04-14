@@ -1,0 +1,14 @@
+Name: 	Eman-torr
+Age: 	23
+Phone Number: 	09272136412
+-------------------------------
+Occupation: private
+Salary: 	$ 7,000.050
+Tax 25: 	$ 1,750.013
+After Deduction: $ 5,250.038
+-------------------------------
+Home: 		Davao
+Current: 	Kidapawan
+-------------------------------
+Emrgncy Cont: 	gabriel quibod
+Emrgncy No.: 	092173214
