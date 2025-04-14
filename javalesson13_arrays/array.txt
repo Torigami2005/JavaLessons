@@ -1,0 +1,7 @@
+Parrot Avian 5 Eman 54.00 true
+Clam Invertebrate 10 Wantap 28.00  true
+Cat Mammal 10 Sophia 100.00 false
+Clownfish Fish 3 Filo 20.00 true
+Snake Reptile 1 Enri 50.00 true
+Dog Mammal 14 Arch 600.00 false
+Monkey Primeape 20 Kiril 1000.00 true
