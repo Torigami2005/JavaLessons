@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="prefinals_arrays_boardgame" />
+        <module name="javalesson12" />
+        <module name="JavaLesson_2" />
+        <module name="java_lesson_7" />
+        <module name="java_lesson_5" />
+        <module name="Java_Lesson3" />
+        <module name="javalesson_9" />
+        <module name="JAva_Lesson4" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
